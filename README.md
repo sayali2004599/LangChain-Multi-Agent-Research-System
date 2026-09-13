@@ -4,6 +4,6 @@
 
 conda create -n langagent python=3.11 -y
 
-conda activate language
+conda activate langagent
 
 pip install -r requirements.txt
